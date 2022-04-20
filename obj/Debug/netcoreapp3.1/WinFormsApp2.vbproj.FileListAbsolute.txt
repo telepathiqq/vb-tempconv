@@ -1,0 +1,16 @@
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.vbproj.AssemblyReference.cache
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.vbproj.GenerateResource.cache
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.vb
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\tnman\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
